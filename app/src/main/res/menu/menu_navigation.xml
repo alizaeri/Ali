@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/favourites"
+        android:icon="@drawable/favorit_icon"
+        android:title="Favourites" />
+
+    <item
+        android:id="@+id/trucks"
+        android:icon="@drawable/truck_icon_nb"
+        android:title="Trucks" />
+
+    <item
+        android:id="@+id/maps"
+        android:icon="@drawable/place_icon"
+        android:title="Maps" />
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/setting_icon"
+        android:title="Settings" />
+
+</menu>
